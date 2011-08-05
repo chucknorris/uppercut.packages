@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>uppercut.developwithpassion.bdd</id>
+    <title>uppercut.developwithpassion.bdd</title>
+    <version>1.5</version>
+    <authors>Rob Reynolds</authors>
+    <owners>Rob Reynolds</owners>
+    <summary>uppercut.developwithpassion.bdd</summary>
+    <description>uppercut.developwithpassion.bdd</description>
+    <projectUrl>http://projectuppercut.org</projectUrl>
+    <tags>uppercut developwithpassion.bdd</tags>
+  </metadata>
+</package>

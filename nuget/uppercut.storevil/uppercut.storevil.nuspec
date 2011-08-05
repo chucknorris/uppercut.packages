@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>uppercut.storevil</id>
+    <title>uppercut.storevil</title>
+    <version>1.5</version>
+    <authors>Rob Reynolds</authors>
+    <owners>Rob Reynolds</owners>
+    <summary>uppercut.storevil</summary>
+    <description>uppercut.storevil</description>
+    <projectUrl>http://projectuppercut.org</projectUrl>
+    <tags>uppercut storevil</tags>
+  </metadata>
+</package>
